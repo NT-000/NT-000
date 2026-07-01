@@ -1,7 +1,6 @@
 # 👋 Hello!
 
 🌱 I'm currently learning **Python**, **FastAPI** & **Svelte**.  
-💡 Student at [GET Academy](https://getacademy.no)  
 💻 Creating and solving problems no one asked for.
 
 ### 📊 GitHub Stats
